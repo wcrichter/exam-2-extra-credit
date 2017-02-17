@@ -1,0 +1,25 @@
+{
+  "name": "exam-2-extra-credit",
+  "version": "1.0.0",
+  "description": "Extra Credit for JRS Exam 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcrichter/exam-2-extra-credit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcrichter/exam-2-extra-credit/issues"
+  },
+  "homepage": "https://github.com/wcrichter/exam-2-extra-credit#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "ramda": "^0.23.0"
+  }
+}
